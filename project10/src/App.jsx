@@ -35,7 +35,7 @@ const App = () => {
   ]
   return (
     <div>
-    <Todo  todoItems={todoItems}/ >
+    <Todo  todoItems={todoItems} / >
     </div>
   )
 }
